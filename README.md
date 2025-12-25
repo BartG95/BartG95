@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: © 2025 Bart Groeneveld <avi@bartavi.nl>
+SPDX-License-Identifier: CC0-1.0
+-->
+
 ## [GitHub is still not reachable over IPv6.](https://en.internet.nl/site/github.com/)
 
 [GitHub is still not reachable over IPv6.](https://en.internet.nl/site/github.com/)
@@ -32,6 +37,11 @@ If they can't do it, then who can?
 
 So GitHub, if your competition can do it with far less money and resources,
 what's your excuse?
+
+I encourage everyone to fork [this](https://github.com/BartG95/BartG95) to their
+[own GitHub profile](https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme).
+Don't forget to change the name of the fork to your usename, and click the 'Share to Profile' button after forking.
+
 
 [^1]: Which makes GitHub a single point of failure (and it indeed fails, on providing IPv6). Decentralize!
 [^2]: The shortage of IPv4 makes it expensive, sometimes indirectly because you will have to work around (CG)NAT.
